@@ -5,7 +5,7 @@
       <text>Parsons plot</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[Arrange the plots in order of increasing algebraic degree.
+      <text><![CDATA[Please arrange the plots in order of increasing algebraic degree.
 [[ parsons input="ans1" height="1000px"]]
 {# stackjson_stringify(proof_steps) #}
 [[/parsons]]
